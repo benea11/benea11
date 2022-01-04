@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benea11&show_icons=true&count_private=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benea11&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |

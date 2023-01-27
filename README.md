@@ -21,8 +21,8 @@ me.say_hi()
  
 <!--START_SECTION:waka-->
 <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  src="https://github.com/benea11/benea11/blob/main/images/stat.svg"
+  alt="Ben's WakaTime Activity"
 />
 <!--END_SECTION:waka-->  
 

@@ -20,10 +20,14 @@ me.say_hi()
 
  
 <!--START_SECTION:waka-->
-<img
-  src="https://github.com/benea11/benea11/blob/main/images/stat.svg"
-  alt="Ben's WakaTime Activity"
-/>
+
+```text
+Python   16 mins         ████████████████░░░░░░░░░   63.75 %
+Docker   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.22 %
+Text     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+```
+
 <!--END_SECTION:waka-->  
 
 

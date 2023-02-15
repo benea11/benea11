@@ -18,7 +18,7 @@ me = dot11Engineer()
 me.say_hi()
 ```
 
-#### A Week with Ben:
+#### The past week with Ben:
 <!--START_SECTION:waka-->
 
 ```text

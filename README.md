@@ -21,9 +21,9 @@ me.say_hi()
 #### The past week with Ben:
 <!--START_SECTION:waka-->
 
-```text
-Text     0 secs          ██████████████████▒░░░░░░   73.59 %
-Python   0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
+```txt
+Text     0 secs          █████████████████▓░░░░░░░   70.86 %
+Python   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.14 %
 ```
 
 <!--END_SECTION:waka-->  

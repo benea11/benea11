@@ -22,8 +22,7 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-Text     0 secs          █████████████████▓░░░░░░░   70.86 %
-Python   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.14 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->  

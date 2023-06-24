@@ -22,10 +22,7 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-Python           4 hrs 25 mins   ███████████████████████▒░   93.57 %
-Text             16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->  

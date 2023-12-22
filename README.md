@@ -22,9 +22,7 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         12 mins         █████████████▒░░░░░░░░░░░   52.70 %
-JavaScript   8 mins          █████████░░░░░░░░░░░░░░░░   35.93 %
-Python       2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+Python   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->  

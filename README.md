@@ -22,7 +22,11 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python           4 hrs 1 min     █████████████████████▒░░░   85.93 %
+YAML             11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Markdown         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Text             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->  

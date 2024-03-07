@@ -22,7 +22,8 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+textmate         15 mins         ████████████████████████░   96.43 %
+GitIgnore file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->  

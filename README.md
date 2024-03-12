@@ -22,8 +22,10 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-textmate         15 mins         ████████████████████████░   96.43 %
-GitIgnore file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+textmate         15 mins         █████████████████▓░░░░░░░   70.54 %
+Text             5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
+GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->  

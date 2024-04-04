@@ -22,9 +22,7 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-Python             12 mins         ████████████████████▓░░░░   82.52 %
-Text               1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-Requirements.txt   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Text   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->  

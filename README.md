@@ -22,10 +22,8 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-Python     3 hrs 9 mins    ███████████████████████▒░   93.27 %
-Logstash   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Text       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     26 mins         █████████████████████▓░░░   87.24 %
+Logstash   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
 ```
 
 <!--END_SECTION:waka-->  

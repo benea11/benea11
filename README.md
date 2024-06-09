@@ -22,7 +22,11 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++              13 mins         ████████████▓░░░░░░░░░░░░   50.41 %
+C                9 mins          ████████▓░░░░░░░░░░░░░░░░   35.05 %
+textmate         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+GitIgnore file   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Python           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->  

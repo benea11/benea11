@@ -22,7 +22,9 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C          4 mins                ████████████████░░░░░░░░░   64.48 %
+Other      2 mins                ████████▓░░░░░░░░░░░░░░░░   34.93 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->  

@@ -7,8 +7,8 @@ class dot11Engineer:
 
     def __init__(self):
         self.name = 'Ben'
-        self.role = ['Network Architect', 'Wireless Specialist', 'Devops Engineer']
-        self.language_spoken = ['en_AU']
+        self.role = ['Wireless Architect', 'Embedded Systems', 'Doer']
+        self.language_spoken = ['en_AU', 'es_ES']
 
     def say_hi(self):
         print('Thanks for dropping by, hope you find some inspiration from my work.')

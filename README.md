@@ -22,11 +22,11 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     7 hrs 35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.89 %
-C                          5 hrs 10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-JavaScript                 2 hrs 43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-Markdown                   2 hrs 20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-CMake                      2 hrs 2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Python                     6 hrs 54 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
+C                          4 hrs 15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
+JavaScript                 3 hrs 13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
+Markdown                   2 hrs 22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+Other                      1 hr 41 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 <!--END_SECTION:waka-->  

@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 
 
-class dot11Engineer:
+class WirelessArchitect:
 
     def __init__(self):
         self.name = 'Ben'

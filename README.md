@@ -22,7 +22,11 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     13 mins               ████████████▓░░░░░░░░░░░░   50.12 %
+HTML         8 mins                ███████▓░░░░░░░░░░░░░░░░░   30.89 %
+JSON         4 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+JavaScript   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->  
